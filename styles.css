@@ -1,0 +1,33 @@
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://ca-times.brightspotcdn.com/dims4/default/449c80a/2147483647/strip/true/crop/4800x3006+0+0/resize/1200x752!/format/webp/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0c%2F0f%2F8ba7f2754f18acdb2ca03d4665bd%2Fla-ca-elon-musk-0030.JPG");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  <style>
+  .hero-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
+  
+  
+  </body>
+  </html>
+  
